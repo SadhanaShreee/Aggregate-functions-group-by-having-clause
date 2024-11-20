@@ -200,3 +200,6 @@ Answer:
 ```
 ## Output:
 ![Screenshot 2024-11-20 141319](https://github.com/user-attachments/assets/3aaa75d8-6237-4bca-9e93-fe0351e12e0c)
+
+## Result:
+ Thus , the SQL queries to implement aggregate functions have been executed successfully.
